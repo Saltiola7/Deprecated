@@ -1,0 +1,90 @@
+# Site 
+repository: tommisaltiola.github.io # Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+favicon: images/favicon.ico # Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Tommi Saltiola
+title: Researcher, Writer, Speaker, Entrepreneur
+email: tommi.saltiola@helsinki.fi
+phone: "+358407479512"
+
+website: tommi.saltiola.github.io
+
+darkmode: false
+
+# Social links
+twitter_username: saltiola7
+#github_username:  tommisaltiola
+orcid_username: 0000-0001-8911-647X
+#facebook_username: jekyll
+#instagram_username: jekyll
+linkedin_username: tommisaltiola
+#pinterest_username: jekyll
+#youtube_username: jekyll
+
+# Additional icon links
+additional_links:
+#- title: Authorea
+#  icon: fas fa-project-diagram
+#  url: https://www.authorea.com/users/291588-tommi-saltiola
+
+- title: ResearchGate
+  icon: fab fa-researchgate # (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+  url: https://www.researchgate.net/profile/Tommi_Saltiola2
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+google_analytics: "UA-154923204-2"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: images/favicon.ico # Directory of profile image (eg. images/profile.jpg)
+about_content: | # this will include new lines to allow paragraphs
+  MSc. Student of Plant Production Sciences in the University of Helsinki. Doing hemp and cannabis research and development as an entrepreneur in multiple companies. I have international context and networks to the industry. My speciality is research and development of cannabis and hemp based products, writing scientific content for blogs and giving presentations.
+  I'm focused in increasing the scientific research for the industry internationally and in Finland.
+
+
+# Projects Section 
+# projects_title: Online Presence #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# education_title: Education #(Use this to override about education section title)
+
+# More Section
+# more_title: A Little More About Me #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraphs
+  On my freetime I read about recent research on my field, self development, business development, leadership. I also write, take pictures and travel.
+  I also develop website with Jekyll and Github pages for my side projects
+  I can work with SPSS, excel in Capture one and Affinity Photo and Affinity Designer.
+
+# Footer
+footer_show_references: false
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]

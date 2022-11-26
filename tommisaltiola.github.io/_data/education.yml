@@ -1,0 +1,47 @@
+# Education Template
+- layout: left
+  name: University of Helsinki
+  dates: 2018 - Now
+  qualification: MSc Student of Plant Production Sciences
+  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Secondary Metabolite Production from hemp (Cannabis Sativa) in Outdoor Conditions in Nordic Climate - MSc Thesis in progress.
+    - Main subject is plant production sciences.
+    - 3 courses about SPSS.
+
+
+- layout: left
+  name: University of Applied Sciences of Jyväskylä
+  dates: 2018
+  qualification: Bachelor of Natural Resources
+  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    - [Video](https://youtu.be/UzGWAXmHmoA) about my BSc Thesis seminar about Cannabinoid Products from hemp. 
+    - Whole original [thesis](pdf/Hampun kannabinoidituotteet 4.2018.pdf) (Not in Theseus).
+    - Seminar [presentation](pdf/Hampun kannabinoidituotteet. JAMK opinnäytyö seminaari. Tommi Saltiola.pdf).
+    - Agrologist [certification](pdf/JAMK_Scan 15 Dec 2018 at 16.59. Tutkintotodistus. Tommi Saltiola.pdf). Including organic farming certification and certification for International Environmental Engineering and Renewable Energy.
+    - Hemp Cover for Garden Plot experiment [report](pdf/Hamppukateviljely HempRefinelle. Tommi Saltiola.pdf).
+    - Interview by local newspaper [Saarijärveläinen](pdf/hampun_jalostus_TULI Cocktail-esitysJAMK. Tommi Saltiola.pdf) about my JAMK incubator course project.
+    - Korpilahti magazine [interview](pdf/korpilahti-lehti. IMG_2104. Tommi Saltiola.jpg) about hemp.
+    - JYU TULI Cocktail JAMK Hemp Food Development [Presentation](pdf/hampun_jalostus_TULI Cocktail-esitysJAMK. Tommi Saltiola.pdf).
+    - Was awarded in Karhunpesä camp with [interview](pdf/14.12.2016. Maaseudun Tulevaisuus. AgFunder_Slush. Tommi Saltiola.pdf) with AgFunder founder [Rob Leclerc](https://agfunder.com/about-us/team/rob-leclerc/).
+    
+- layout: left
+  name: High School of Joutsa
+  dates: 2014
+  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    - [Certificate]((pdf/Lukio todistus. Tommi Saltiola_Scan 15 Dec 2018 at 17.05.pdf)) of Graduation.
+    - I did my final exams for Advanced maths, English, Finnish, Geology and Health Science.
+    
+- layout: left
+  name: Unwavering Focus
+  dates: 2019
+  quote: >
+#    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    - [Certificate](pdf/Certificate of Completion- Dandapani. Tommi Saltiola.pdf) of Completition of Unwavering Focus -course.
+    - Course about how the mind works and how to concentrate. By [Dandapani](https://dandapani.org/).
